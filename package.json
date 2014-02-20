@@ -1,0 +1,12 @@
+{
+  "name": "timoxley-scroll-position",
+  "description": "listen for scroll in/out events on DOM elements",
+  "version": "0.5.1",
+  "keywords": [
+    "scroll"
+  ],
+  "dependencies": {
+    "component-emitter": "git://github.com/npmcomponent/component-emitter.git",
+    "timoxley-throttle": "git://github.com/npmcomponent/timoxley-throttle.git"
+  }
+}

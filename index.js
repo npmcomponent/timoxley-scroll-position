@@ -3,8 +3,8 @@
  * Module dependencies.
  */
 
-var Emitter = require('emitter')
-var throttle = require('throttle')
+var Emitter = require('component-emitter')
+var throttle = require('timoxley-throttle')
 var toArray = Function.call.bind([].slice)
 
 /**
